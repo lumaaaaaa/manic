@@ -1,5 +1,4 @@
 # !manic
-![osu!mania](https://topplays.xyz/static/modes/mode-mania2x.png "osu!mania")
 <p align="center">
   <img src="https://topplays.xyz/static/modes/mode-mania2x.png">
 </p>
