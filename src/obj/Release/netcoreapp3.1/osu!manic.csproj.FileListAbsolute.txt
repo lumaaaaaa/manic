@@ -1,0 +1,13 @@
+C:\Users\devin\source\repos\osu!manic\osu!manic\bin\Release\netcoreapp3.1\osu!manic.exe
+C:\Users\devin\source\repos\osu!manic\osu!manic\bin\Release\netcoreapp3.1\osu!manic.deps.json
+C:\Users\devin\source\repos\osu!manic\osu!manic\bin\Release\netcoreapp3.1\osu!manic.runtimeconfig.json
+C:\Users\devin\source\repos\osu!manic\osu!manic\bin\Release\netcoreapp3.1\osu!manic.runtimeconfig.dev.json
+C:\Users\devin\source\repos\osu!manic\osu!manic\bin\Release\netcoreapp3.1\osu!manic.dll
+C:\Users\devin\source\repos\osu!manic\osu!manic\bin\Release\netcoreapp3.1\osu!manic.pdb
+C:\Users\devin\source\repos\osu!manic\osu!manic\obj\Release\netcoreapp3.1\osu!manic.csprojAssemblyReference.cache
+C:\Users\devin\source\repos\osu!manic\osu!manic\obj\Release\netcoreapp3.1\osu!manic.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repos\osu!manic\osu!manic\obj\Release\netcoreapp3.1\osu!manic.AssemblyInfoInputs.cache
+C:\Users\devin\source\repos\osu!manic\osu!manic\obj\Release\netcoreapp3.1\osu!manic.AssemblyInfo.cs
+C:\Users\devin\source\repos\osu!manic\osu!manic\obj\Release\netcoreapp3.1\osu!manic.dll
+C:\Users\devin\source\repos\osu!manic\osu!manic\obj\Release\netcoreapp3.1\osu!manic.pdb
+C:\Users\devin\source\repos\osu!manic\osu!manic\obj\Release\netcoreapp3.1\osu!manic.genruntimeconfig.cache
