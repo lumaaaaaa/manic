@@ -1,6 +1,6 @@
 # !manic
 <p align="center">
-  <img src="https://cdn.luma.pw/images/manicheader.png">
+  <img src="http://cdn.luma.pw/images/manicheader.png">
 </p>
 
 When used in conjunction with a custom skin (manicskin.osz), !manic will play osu!mania for you. And quite well too. Well enough to get my account permanently banned at least. Have a look at this [showcase](https://www.youtube.com/watch?v=7hu7usAlcnw).
